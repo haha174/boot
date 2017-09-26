@@ -1,0 +1,4 @@
+wen:
+    hello: hello
+    world: world
+    helloworld: ${wen.hello}${wen.world}
