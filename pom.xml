@@ -13,5 +13,6 @@
   <modules>
   	<module>boot01</module>
     <module>boot04</module>
+    <module>boot05</module>
   </modules>
 </project>
