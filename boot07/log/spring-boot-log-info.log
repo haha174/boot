@@ -1,0 +1,28 @@
+2017-10-15 19:28:08.106 INFO  com.wen.boot.App Line:48  - Starting App on idea-PC with PID 11388 (G:\boot\boot\boot07\target\classes started by 文强 in G:\boot\boot\boot07)
+2017-10-15 19:28:08.131 INFO  com.wen.boot.App Line:593 - No active profile set, falling back to default profiles: default
+2017-10-15 19:28:08.262 INFO  org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext Line:583 - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@7c417213: startup date [Sun Oct 15 19:28:08 CST 2017]; root of context hierarchy
+2017-10-15 19:28:11.905 INFO  org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer Line:89  - Tomcat initialized with port(s): 8080 (http)
+2017-10-15 19:28:11.936 INFO  org.apache.catalina.core.StandardService Line:179 - Starting service [Tomcat]
+2017-10-15 19:28:11.939 INFO  org.apache.catalina.core.StandardEngine Line:179 - Starting Servlet Engine: Apache Tomcat/8.5.16
+2017-10-15 19:28:12.140 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:179 - Initializing Spring embedded WebApplicationContext
+2017-10-15 19:28:12.141 INFO  org.springframework.web.context.ContextLoader Line:276 - Root WebApplicationContext: initialization completed in 3879 ms
+2017-10-15 19:28:12.408 INFO  org.springframework.boot.web.servlet.ServletRegistrationBean Line:190 - Mapping servlet: 'dispatcherServlet' to [/]
+2017-10-15 19:28:12.441 INFO  org.springframework.boot.web.servlet.FilterRegistrationBean Line:258 - Mapping filter: 'characterEncodingFilter' to: [/*]
+2017-10-15 19:28:12.442 INFO  org.springframework.boot.web.servlet.FilterRegistrationBean Line:258 - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2017-10-15 19:28:12.443 INFO  org.springframework.boot.web.servlet.FilterRegistrationBean Line:258 - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2017-10-15 19:28:12.444 INFO  org.springframework.boot.web.servlet.FilterRegistrationBean Line:258 - Mapping filter: 'requestContextFilter' to: [/*]
+2017-10-15 19:28:13.552 INFO  org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter Line:534 - Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@7c417213: startup date [Sun Oct 15 19:28:08 CST 2017]; root of context hierarchy
+2017-10-15 19:28:13.800 INFO  org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping Line:543 - Mapped "{[/hello/index]}" onto public java.lang.String com.wen.boot.controller.HelloContreller.helloPage()
+2017-10-15 19:28:13.809 INFO  org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping Line:543 - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2017-10-15 19:28:13.810 INFO  org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping Line:543 - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2017-10-15 19:28:13.864 INFO  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping Line:362 - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2017-10-15 19:28:13.865 INFO  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping Line:362 - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2017-10-15 19:28:13.937 INFO  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping Line:362 - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2017-10-15 19:28:14.186 INFO  org.springframework.jmx.export.annotation.AnnotationMBeanExporter Line:431 - Registering beans for JMX exposure on startup
+2017-10-15 19:28:14.406 INFO  org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer Line:201 - Tomcat started on port(s): 8080 (http)
+2017-10-15 19:28:14.517 INFO  com.wen.boot.App Line:57  - Started App in 7.496 seconds (JVM running for 8.001)
+2017-10-15 19:29:16.878 INFO  org.apache.tomcat.util.http.parser.Cookie Line:179 - A cookie header was received [1506180190,1507564465,1507726293; _ga=GA1.1.693363639.1504458310; Hm_lvt_d0860f6c7721ce1eda7a584188cae847=1505014762,1506179232,1506179623,1506180806] that contained an invalid cookie. That cookie will be ignored.Note: further occurrences of this error will be logged at DEBUG level.
+2017-10-15 19:29:16.885 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:179 - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2017-10-15 19:29:16.886 INFO  org.springframework.web.servlet.DispatcherServlet Line:489 - FrameworkServlet 'dispatcherServlet': initialization started
+2017-10-15 19:29:16.902 INFO  org.springframework.web.servlet.DispatcherServlet Line:508 - FrameworkServlet 'dispatcherServlet': initialization completed in 16 ms
+2017-10-15 19:29:27.543 INFO  com.wen.boot.controller.HelloContreller Line:17  - index
