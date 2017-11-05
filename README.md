@@ -13,3 +13,8 @@ Spring Boot学习之旅，分享在学习中学到的一些知识
 - [Spring Boot学习之旅：（十）aop](http://www.haha174.top/article/details/254142): boot10
 - [Spring Boot学习之旅：（十一）模版引擎-jsp](http://www.haha174.top/article/details/255911): boot11
 - [Spring Boot学习之旅：（十二）模版引擎-Thymeleaf](http://www.haha174.top/article/details/252777): boot12
+- [Spring Boot学习之旅：（十三）模版引擎-FreeMarker](http://www.haha174.top/article/details/259667): boot13
+- [Spring Boot学习之旅：（十四）整合hibernate](http://www.haha174.top/article/details/258855): boot14
+
+- [Spring Boot学习之旅：（十五）使用JdbcTemplate](http://www.haha174.top/article/details/257327): boot15
+- [http://www.haha174.top/article/details/254914](http://www.haha174.top/article/details/254914): boot16
