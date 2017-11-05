@@ -17,4 +17,4 @@ Spring Boot学习之旅，分享在学习中学到的一些知识
 - [Spring Boot学习之旅：（十四）整合hibernate](http://www.haha174.top/article/details/258855): boot14
 
 - [Spring Boot学习之旅：（十五）使用JdbcTemplate](http://www.haha174.top/article/details/257327): boot15
-- [http://www.haha174.top/article/details/254914](http://www.haha174.top/article/details/254914): boot16
+- [Spring Boot学习之旅：（十六）整合mybatis及日志](http://www.haha174.top/article/details/254914): boot16
